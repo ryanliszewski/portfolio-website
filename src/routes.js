@@ -8,8 +8,7 @@ const Routes = (props) => {
   return (
     <Router {...props}>
       <Switch>
-      <Route exact path="/" component={App} />
-
+        <Route exact path="/" component={App} />
       </Switch>
     </Router>
   )

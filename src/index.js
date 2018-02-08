@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import './styles/index.css';
+import 'bootstrap/dist/css/bootstrap.css';
 
 import Routes from './routes';
 import registerServiceWorker from './registerServiceWorker';
